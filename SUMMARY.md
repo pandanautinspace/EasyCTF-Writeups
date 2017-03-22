@@ -11,5 +11,5 @@
 
 ## Team 1 Writeups
 
-* Placeholder
+* [Placeholder](team-1-writeups/placeholder.md)
 
